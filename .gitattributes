@@ -1,0 +1,8 @@
+*.obj binary
+*.res binary
+*.exe binary
+*.prj binary
+*.dsk binary
+*.obr binary
+*.lib binary
+*.ico binary
